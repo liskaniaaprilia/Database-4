@@ -40,27 +40,42 @@ SELECT * FROM Pegawai;
 
 1. Tampilkan pegawai yang gajinya bukan 2.000.000 dan 1.250.000 !
 - Script & Output :
+
 ![IMG.3](Screenshot/TB-2.png)
+
 2. Tampilkan pegawai yang tunjangannya NULL!
 - Script & Output :
+
 ![IMG.4](Screenshot/TB-3.png)
+
 3. Tampilkan pegawai yang tunjangannya tidak NULL!
 - Script & Output :
+
 ![IMG.5](Screenshot/TB-4.png)
+
 4. Tampilkan/hitung jumlah baris/record tabel pegawai!
 - Script & Output :
+
 ![IMG.6](Screenshot/TB-5.png)
+
 5. Tampilkan/hitung jumlah total gaji di tabel pegawai!
 - Script & Output :
+
 ![IMG.7](Screenshot/TB-6.png)
+
 6. Tampilkan/hitung rata-rata gaji pegawai!
 - Script & Output :
+
 ![IMG.8](Screenshot/TB-7.png)
+
 7. Tampilkan gaji terkecil!
 - Script & Output :
+
 ![IMG.9](Screenshot/TB-8.png)
+
 8. Tampilkan gaji terbesar!
 - Script & Output :
+
 ![IMG.10](Screenshot/TB-9.png)
 
 ## Praktikum - Table Hewan
@@ -97,21 +112,32 @@ SELECT * from Animals;
 
 1. Tampilkan jumlah hewan yang dimiliki setiap owner
 - Script & Output :
+
 ![IMG.13](Screenshot/TH-2.png)
+
 2. Tampilkan jumlah hewan berdasarkan spesies
 - Script & Output :
+
 ![IMG.14](Screenshot/TH-3.png)
+
 3. Tampilkan jumlah hewan berdasarkan jenis kelamin
 - Script & Output :
+
 ![IMG.15](Screenshot/TH-4.png)
+
 4. Tampilkan jumlah hewan berdasarkan spesies dan jenis kelamin
 - Script & Output :
+
 ![IMG.16](Screenshot/TH-5.png)
+
 5. Tampilkan jumlah hewan berdasarkan spesis (cat dan dog saja) dan jenis kelamin
 - Script & Output :
+
 ![IMG.17](Screenshot/TH-6.png)
+
 6. Tampilkan jumlah hewan berdasarkan jenis kelamin yang diketahui saja
 - Script & Output :
+
 ![IMG.18](Screenshot/TH-7.png)
 
 # KESIMPULAN
